@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo_task">This is some title in the todo task</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="add_menu_task">Add Menu Task</string>
+    <string name="text_hint_task_name">Task Name</string>
+    <string name="text_hint_task_description">Task Description</string>
+    <string name="text_hint_task_header_url">Task header Image Url</string>
+    <string name="text_btn_save_task">SAVE</string>
+    <string name="text_title_task_form_activity">set text title task form activity</string>
+    <string name="text_error_field_task_desc">Task Title must be Filled !</string>
+    <string name="text_error_field_task_header">Task Header Image must be Filled</string>
+    <string name="text_error_field_task_name">Task Title must be filled !</string>
+</resources>
